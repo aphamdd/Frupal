@@ -1,0 +1,14 @@
+# .gitignore
+# CS300 Group #7
+# November 16, 2020
+# taken from .gitignore example @ https://gist.github.com/octocat/9257657
+# Compiled source #
+*.o
+frupal
+
+# OS generated files #
+.DS_Store
+frupal.*
+._*
+.nfs*
+Info.plist

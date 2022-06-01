@@ -1,0 +1,8 @@
+S;ship;water;2000;36;89
+S;ship;water;250;30;31
+S;ship;water;250;88;21
+S;ship;water;150;88;23
+S;ship;water;125;88;25
+S;ship;water;100;88;27
+S;ship;water;110;88;29
+S;ship;water;65;88;31

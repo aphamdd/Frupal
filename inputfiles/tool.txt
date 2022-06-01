@@ -1,0 +1,465 @@
+T;tool;Pick Axe;3;boulder;20;6;44
+T;tool;Axe;2;tree;10;8;43
+T;tool;Hammer;2;boulder;10;9;41
+T;tool;Saw;5;tree;15;10;40
+T;tool;Hammer;5;boulder;10;88;86  // hammer to left of start
+T;tool;Saw;5;tree;15;88;90    // saw to the right of start
+T;tool;Big Sword;6;monster;35;18;115 // AAA start right bank rando
+T;tool;Saw;5;tree;34;19;111
+T;tool;Sword;2;monster;30;21;115
+T;tool;Big Saw;7;tree;32;22;99
+T;tool;Big Saw;7;tree;35;22;108
+T;tool;Big Hammer;6;boulder;29;22;110
+T;tool;Big Saw;8;tree;30;26;123
+T;tool;Big Sword;8;monster;29;27;106
+T;tool;Hammer;4;boulder;30;28;107
+T;tool;Big Hammer;8;boulder;32;28;118
+T;tool;Big Hammer;6;boulder;33;28;126
+T;tool;Hammer;4;boulder;29;29;122
+T;tool;Hammer;2;boulder;29;33;107
+T;tool;Saw;5;tree;34;33;113
+T;tool;Big Sword;6;monster;30;34;118
+T;tool;Big Saw;7;tree;30;36;120
+T;tool;Hammer;3;boulder;32;37;98
+T;tool;Big Sword;6;monster;33;37;105
+T;tool;Sword;3;monster;31;38;115
+T;tool;Hammer;3;boulder;30;39;110
+T;tool;Big Saw;8;tree;32;40;117
+T;tool;Hammer;4;boulder;31;40;122
+T;tool;Hammer;3;boulder;35;43;107
+T;tool;Big Sword;7;monster;34;43;120
+T;tool;Big Saw;8;tree;32;44;108
+T;tool;Big Saw;7;tree;29;45;126
+T;tool;Sword;2;monster;31;46;97
+T;tool;Sword;4;monster;31;46;110
+T;tool;Sword;5;monster;32;46;123
+T;tool;Big Hammer;8;boulder;34;48;116
+T;tool;Sword;4;monster;30;49;118
+T;tool;Saw;3;tree;35;50;123
+T;tool;Sword;2;monster;33;54;109
+T;tool;Big Hammer;6;boulder;30;55;110
+T;tool;Big Hammer;8;boulder;34;58;107
+T;tool;Sword;2;monster;31;60;103
+T;tool;Big Sword;6;monster;32;61;100
+T;tool;Big Hammer;7;boulder;32;61;120
+T;tool;Big Saw;8;tree;33;62;111
+T;tool;Big Sword;6;monster;29;64;100
+T;tool;Sword;5;monster;30;65;106
+T;tool;Hammer;4;boulder;33;66;107
+T;tool;Sword;5;monster;33;67;124
+T;tool;Big Hammer;6;boulder;31;69;116
+T;tool;Big Hammer;8;boulder;33;69;118
+T;tool;Big Hammer;7;boulder;30;70;110
+T;tool;Big Sword;6;monster;34;70;117
+T;tool;Hammer;2;boulder;33;72;116
+T;tool;Saw;2;tree;33;73;117
+T;tool;Saw;3;tree;35;73;120
+T;tool;Big Saw;7;tree;34;74;111
+T;tool;Sword;3;monster;30;75;115
+T;tool;Big Hammer;8;boulder;29;75;123
+T;tool;Saw;5;tree;33;76;111
+T;tool;Sword;3;monster;32;77;109
+T;tool;Hammer;4;boulder;30;79;104
+T;tool;Sword;3;monster;33;80;109 // ZZZ end right bank rando
+T;tool;Saw;4;tree;13;10;28 // BBB start of big field
+T;tool;Sword;4;monster;17;10;35
+T;tool;Hammer;3;boulder;16;10;64
+T;tool;Sword;2;monster;22;10;68
+T;tool;Hammer;4;boulder;13;10;73
+T;tool;Sword;5;monster;19;11;10
+T;tool;Sword;5;monster;17;11;53
+T;tool;Big Saw;6;tree;23;11;59
+T;tool;Sword;4;monster;19;11;63
+T;tool;Sword;3;monster;23;11;67
+T;tool;Hammer;4;boulder;22;11;75
+T;tool;Sword;2;monster;16;11;76
+T;tool;Hammer;5;boulder;16;11;84
+T;tool;Saw;3;tree;23;12;11
+T;tool;Sword;4;monster;20;12;21
+T;tool;Big Saw;6;tree;16;12;30
+T;tool;Sword;4;monster;21;12;61
+T;tool;Big Saw;6;tree;14;12;88
+T;tool;Sword;4;monster;15;13;4
+T;tool;Sword;3;monster;17;13;53
+T;tool;Saw;5;tree;18;13;95
+T;tool;Hammer;5;boulder;13;14;24
+T;tool;Saw;2;tree;18;14;51
+T;tool;Big Hammer;6;boulder;16;14;59
+T;tool;Big Saw;6;tree;17;14;77
+T;tool;Sword;4;monster;21;15;20
+T;tool;Sword;4;monster;21;15;72
+T;tool;Hammer;2;boulder;15;15;83
+T;tool;Hammer;2;boulder;19;16;21
+T;tool;Hammer;5;boulder;22;16;65
+T;tool;Big Sword;6;monster;15;17;8
+T;tool;Saw;5;tree;20;17;38
+T;tool;Sword;4;monster;21;17;57
+T;tool;Sword;5;monster;15;18;6
+T;tool;Sword;3;monster;15;18;16
+T;tool;Big Hammer;6;boulder;19;18;36
+T;tool;Hammer;4;boulder;17;18;71
+T;tool;Sword;3;monster;14;18;75
+T;tool;Hammer;4;boulder;22;19;4
+T;tool;Big Saw;6;tree;19;19;34
+T;tool;Big Sword;6;monster;17;19;86
+T;tool;Sword;5;monster;14;20;35
+T;tool;Sword;2;monster;23;20;48
+T;tool;Saw;4;tree;14;20;60
+T;tool;Sword;3;monster;19;20;73
+T;tool;Saw;4;tree;21;20;79
+T;tool;Saw;4;tree;23;21;12
+T;tool;Saw;3;tree;13;21;54
+T;tool;Saw;2;tree;18;21;69
+T;tool;Big Sword;6;monster;14;22;18
+T;tool;Saw;5;tree;19;22;21
+T;tool;Big Sword;6;monster;22;22;22
+T;tool;Big Saw;6;tree;15;22;25
+T;tool;Saw;3;tree;18;22;28
+T;tool;Hammer;3;boulder;23;22;69
+T;tool;Hammer;2;boulder;17;23;10
+T;tool;Sword;3;monster;13;23;32
+T;tool;Big Sword;6;monster;14;23;36
+T;tool;Sword;3;monster;17;23;61
+T;tool;Big Hammer;6;boulder;21;23;75
+T;tool;Sword;5;monster;13;24;24
+T;tool;Saw;2;tree;16;24;57
+T;tool;Hammer;4;boulder;17;24;83
+T;tool;Sword;4;monster;18;25;8
+T;tool;Hammer;2;boulder;13;25;52
+T;tool;Hammer;2;boulder;23;26;5
+T;tool;Sword;3;monster;23;26;9
+T;tool;Saw;2;tree;13;26;15
+T;tool;Saw;3;tree;18;26;42
+T;tool;Hammer;2;boulder;19;26;59
+T;tool;Hammer;3;boulder;13;26;97
+T;tool;Big Hammer;6;boulder;14;27;36
+T;tool;Sword;5;monster;19;27;49
+T;tool;Hammer;4;boulder;19;27;84
+T;tool;Hammer;3;boulder;13;28;16
+T;tool;Hammer;3;boulder;18;28;33
+T;tool;Sword;4;monster;19;28;58
+T;tool;Saw;5;tree;16;28;67
+T;tool;Saw;3;tree;18;29;12
+T;tool;Sword;3;monster;17;29;64
+T;tool;Sword;2;monster;16;29;95
+T;tool;Hammer;2;boulder;16;30;12
+T;tool;Big Saw;6;tree;17;30;45
+T;tool;Saw;4;tree;19;30;51
+T;tool;Saw;4;tree;15;31;5
+T;tool;Saw;3;tree;16;31;56
+T;tool;Saw;5;tree;13;31;65
+T;tool;Big Hammer;6;boulder;18;32;12
+T;tool;Saw;4;tree;19;32;54
+T;tool;Sword;3;monster;20;32;70
+T;tool;Hammer;2;boulder;16;33;26
+T;tool;Sword;5;monster;17;33;45
+T;tool;Sword;3;monster;14;33;76
+T;tool;Saw;4;tree;22;33;85
+T;tool;Hammer;5;boulder;15;34;14
+T;tool;Hammer;3;boulder;22;34;34
+T;tool;Sword;3;monster;23;34;53
+T;tool;Sword;4;monster;23;34;90
+T;tool;Sword;4;monster;16;35;42
+T;tool;Big Hammer;6;boulder;14;35;68
+T;tool;Hammer;5;boulder;21;36;21
+T;tool;Big Saw;6;tree;16;36;39
+T;tool;Big Saw;6;tree;22;36;90
+T;tool;Hammer;5;boulder;20;36;92
+T;tool;Hammer;2;boulder;18;37;48
+T;tool;Hammer;5;boulder;14;37;59
+T;tool;Sword;3;monster;14;37;66
+T;tool;Sword;4;monster;19;38;15
+T;tool;Saw;4;tree;22;38;45
+T;tool;Hammer;2;boulder;17;38;77
+T;tool;Saw;5;tree;19;39;19
+T;tool;Sword;2;monster;19;39;38
+T;tool;Hammer;3;boulder;22;39;43
+T;tool;Saw;3;tree;16;39;85
+T;tool;Hammer;4;boulder;20;40;38
+T;tool;Sword;4;monster;23;40;42
+T;tool;Saw;4;tree;15;40;51
+T;tool;Saw;4;tree;21;41;5
+T;tool;Saw;5;tree;17;41;20
+T;tool;Saw;4;tree;13;41;47
+T;tool;Hammer;2;boulder;14;41;64
+T;tool;Saw;3;tree;22;42;15
+T;tool;Hammer;5;boulder;15;42;17
+T;tool;Sword;5;monster;20;42;42
+T;tool;Big Sword;6;monster;19;42;82
+T;tool;Sword;2;monster;17;43;37
+T;tool;Saw;2;tree;21;43;43
+T;tool;Big Sword;6;monster;20;43;68
+T;tool;Sword;5;monster;20;43;87
+T;tool;Saw;4;tree;14;44;26
+T;tool;Big Saw;6;tree;23;44;32
+T;tool;Hammer;4;boulder;13;44;85
+T;tool;Sword;5;monster;17;45;34
+T;tool;Sword;5;monster;20;45;38
+T;tool;Saw;5;tree;22;45;50
+T;tool;Sword;2;monster;14;46;2
+T;tool;Sword;2;monster;22;46;21
+T;tool;Sword;2;monster;23;46;34
+T;tool;Sword;5;monster;17;46;38
+T;tool;Big Sword;6;monster;17;46;90
+T;tool;Big Saw;6;tree;23;47;44
+T;tool;Hammer;4;boulder;19;47;94
+T;tool;Hammer;4;boulder;22;48;44
+T;tool;Sword;3;monster;17;48;90
+T;tool;Saw;4;tree;20;49;29
+T;tool;Hammer;5;boulder;14;49;52
+T;tool;Big Hammer;6;boulder;17;49;84
+T;tool;Hammer;4;boulder;13;50;37
+T;tool;Hammer;4;boulder;17;50;90
+T;tool;Hammer;4;boulder;22;50;92
+T;tool;Hammer;5;boulder;14;51;3
+T;tool;Hammer;3;boulder;18;51;5
+T;tool;Saw;3;tree;22;51;47
+T;tool;Saw;4;tree;22;51;71
+T;tool;Sword;4;monster;20;52;20
+T;tool;Saw;4;tree;16;52;71
+T;tool;Saw;5;tree;18;53;13
+T;tool;Big Saw;6;tree;22;53;28
+T;tool;Big Sword;6;monster;21;53;62
+T;tool;Big Sword;6;monster;22;54;5
+T;tool;Sword;2;monster;15;54;21
+T;tool;Hammer;3;boulder;21;54;41
+T;tool;Sword;4;monster;16;54;72
+T;tool;Big Sword;6;monster;14;55;15
+T;tool;Sword;2;monster;21;55;67
+T;tool;Big Hammer;6;boulder;13;55;69
+T;tool;Sword;5;monster;22;56;18
+T;tool;Big Sword;6;monster;13;56;70
+T;tool;Big Sword;6;monster;18;57;7
+T;tool;Saw;3;tree;17;57;55
+T;tool;Big Sword;6;monster;16;57;83
+T;tool;Sword;4;monster;19;57;96
+T;tool;Hammer;5;boulder;23;58;45
+T;tool;Sword;4;monster;14;58;52
+T;tool;Sword;5;monster;16;58;53
+T;tool;Hammer;3;boulder;13;58;61
+T;tool;Big Hammer;6;boulder;16;58;69
+T;tool;Big Hammer;6;boulder;17;59;25
+T;tool;Hammer;3;boulder;18;59;48
+T;tool;Saw;2;tree;17;59;60
+T;tool;Hammer;2;boulder;17;59;92
+T;tool;Sword;2;monster;15;60;32
+T;tool;Big Sword;6;monster;15;60;60
+T;tool;Sword;4;monster;19;60;64
+T;tool;Hammer;2;boulder;19;60;96
+T;tool;Saw;3;tree;16;61;40
+T;tool;Saw;5;tree;17;61;85
+T;tool;Hammer;4;boulder;20;62;2
+T;tool;Big Saw;6;tree;21;62;47
+T;tool;Hammer;5;boulder;14;62;91
+T;tool;Saw;2;tree;21;63;45
+T;tool;Big Saw;6;tree;19;63;51
+T;tool;Saw;4;tree;15;63;87
+T;tool;Big Saw;6;tree;23;64;2
+T;tool;Big Sword;6;monster;20;64;27
+T;tool;Saw;2;tree;23;64;39
+T;tool;Saw;3;tree;21;64;54
+T;tool;Hammer;3;boulder;21;64;59
+T;tool;Sword;2;monster;23;65;8
+T;tool;Hammer;2;boulder;19;65;40
+T;tool;Sword;4;monster;17;65;50
+T;tool;Sword;3;monster;23;65;69
+T;tool;Big Saw;6;tree;16;65;87
+T;tool;Hammer;2;boulder;20;66;40
+T;tool;Hammer;5;boulder;22;66;66
+T;tool;Hammer;4;boulder;18;67;10
+T;tool;Sword;2;monster;19;67;17
+T;tool;Big Sword;6;monster;20;67;33
+T;tool;Hammer;4;boulder;23;67;68
+T;tool;Hammer;5;boulder;21;68;15
+T;tool;Sword;4;monster;17;68;37
+T;tool;Hammer;3;boulder;15;68;69
+T;tool;Sword;2;monster;16;68;73
+T;tool;Hammer;2;boulder;20;69;26
+T;tool;Saw;5;tree;14;69;41
+T;tool;Hammer;3;boulder;21;69;55
+T;tool;Sword;4;monster;15;69;56
+T;tool;Big Sword;6;monster;15;69;66
+T;tool;Big Saw;6;tree;20;70;14
+T;tool;Sword;3;monster;14;70;15
+T;tool;Sword;5;monster;18;70;22
+T;tool;Big Sword;6;monster;19;70;50
+T;tool;Saw;5;tree;19;70;77
+T;tool;Saw;4;tree;19;70;86
+T;tool;Saw;3;tree;18;71;25
+T;tool;Saw;4;tree;22;71;64
+T;tool;Hammer;2;boulder;19;72;17
+T;tool;Hammer;3;boulder;16;72;25
+T;tool;Big Saw;6;tree;21;72;49
+T;tool;Big Saw;6;tree;19;72;97
+T;tool;Hammer;3;boulder;20;73;48
+T;tool;Hammer;3;boulder;21;73;89
+T;tool;Hammer;3;boulder;23;74;21
+T;tool;Saw;4;tree;15;74;69
+T;tool;Hammer;5;boulder;19;75;4
+T;tool;Saw;4;tree;18;75;31
+T;tool;Big Sword;6;monster;13;75;32
+T;tool;Saw;5;tree;15;75;44
+T;tool;Sword;4;monster;13;75;78
+T;tool;Sword;5;monster;23;75;94
+T;tool;Saw;3;tree;14;75;97
+T;tool;Hammer;4;boulder;16;76;48
+T;tool;Saw;3;tree;15;76;69
+T;tool;Sword;5;monster;13;77;6
+T;tool;Sword;4;monster;19;77;37
+T;tool;Saw;5;tree;20;77;61
+T;tool;Sword;2;monster;15;77;68
+T;tool;Sword;5;monster;15;78;2
+T;tool;Saw;5;tree;20;78;35
+T;tool;Sword;4;monster;15;78;39
+T;tool;Sword;3;monster;21;78;67
+T;tool;Sword;5;monster;13;79;7
+T;tool;Hammer;4;boulder;14;79;45
+T;tool;Sword;3;monster;23;79;49
+T;tool;Sword;4;monster;20;80;1
+T;tool;Hammer;2;boulder;19;80;30
+T;tool;Sword;3;monster;20;80;43
+T;tool;Big Sword;6;monster;23;80;74
+T;tool;Big Saw;6;tree;20;81;1
+T;tool;Sword;2;monster;20;81;8
+T;tool;Sword;2;monster;17;81;54
+T;tool;Saw;3;tree;16;81;84
+T;tool;Saw;2;tree;21;81;93
+T;tool;Hammer;5;boulder;22;82;7
+T;tool;Sword;4;monster;21;82;59
+T;tool;Big Saw;6;tree;21;82;95
+T;tool;Hammer;3;boulder;19;83;18
+T;tool;Saw;3;tree;22;83;24
+T;tool;Big Hammer;6;boulder;23;83;59
+T;tool;Saw;3;tree;19;83;95
+T;tool;Hammer;4;boulder;13;83;97 // YYY end of big field
+T;tool;Saw;5;tree;17;81;13 // DDD start of southern section
+T;tool;Saw;4;tree;19;81;28
+T;tool;Sword;3;monster;23;81;32
+T;tool;Saw;5;tree;19;81;35
+T;tool;Sword;4;monster;13;82;3
+T;tool;Saw;3;tree;14;82;33
+T;tool;Saw;4;tree;8;82;104
+T;tool;Saw;5;tree;11;83;38
+T;tool;Hammer;2;boulder;21;83;91
+T;tool;Hammer;5;boulder;21;83;111
+T;tool;Sword;3;monster;21;84;10
+T;tool;Saw;3;tree;23;84;22
+T;tool;Sword;5;monster;13;84;68
+T;tool;Saw;3;tree;15;84;107
+T;tool;Sword;3;monster;22;84;123
+T;tool;Saw;3;tree;11;84;126
+T;tool;Saw;4;tree;20;85;25
+T;tool;Hammer;2;boulder;14;85;63
+T;tool;Saw;2;tree;18;86;17
+T;tool;Sword;3;monster;11;86;21
+T;tool;Sword;5;monster;19;86;61
+T;tool;Hammer;4;boulder;20;86;102
+T;tool;Saw;3;tree;15;86;126
+T;tool;Saw;2;tree;10;87;37
+T;tool;Sword;2;monster;11;87;74
+T;tool;Hammer;4;boulder;14;87;100
+T;tool;Sword;5;monster;13;87;116
+T;tool;Saw;2;tree;17;88;14
+T;tool;Sword;3;monster;22;88;15
+T;tool;Saw;4;tree;17;88;30
+T;tool;Hammer;4;boulder;23;88;35
+T;tool;Sword;5;monster;14;88;63
+T;tool;Sword;5;monster;11;88;124
+T;tool;Sword;2;monster;14;89;14
+T;tool;Hammer;5;boulder;20;89;19
+T;tool;Saw;5;tree;21;89;67
+T;tool;Hammer;5;boulder;22;89;84
+T;tool;Hammer;2;boulder;20;89;113
+T;tool;Sword;3;monster;11;90;27
+T;tool;Saw;4;tree;18;90;42
+T;tool;Hammer;2;boulder;23;90;68
+T;tool;Hammer;5;boulder;8;91;1
+T;tool;Sword;2;monster;8;91;14
+T;tool;Hammer;2;boulder;15;91;43
+T;tool;Saw;2;tree;11;91;103
+T;tool;Sword;3;monster;7;92;23
+T;tool;Sword;3;monster;17;92;39
+T;tool;Hammer;2;boulder;22;92;44
+T;tool;Hammer;5;boulder;19;92;88
+T;tool;Saw;4;tree;10;93;22
+T;tool;Hammer;4;boulder;9;93;78
+T;tool;Hammer;5;boulder;9;93;92
+T;tool;Sword;4;monster;8;93;126
+T;tool;Saw;4;tree;21;94;22
+T;tool;Sword;5;monster;9;94;29
+T;tool;Hammer;3;boulder;17;94;61
+T;tool;Sword;5;monster;20;94;119
+T;tool;Hammer;5;boulder;21;95;34
+T;tool;Saw;4;tree;16;95;40
+T;tool;Hammer;3;boulder;16;95;57
+T;tool;Saw;4;tree;9;95;84
+T;tool;Sword;5;monster;9;96;1
+T;tool;Hammer;3;boulder;23;96;30
+T;tool;Hammer;4;boulder;14;96;80
+T;tool;Saw;4;tree;21;97;14
+T;tool;Sword;3;monster;8;97;15
+T;tool;Hammer;4;boulder;21;97;59
+T;tool;Sword;5;monster;8;97;84
+T;tool;Sword;4;monster;16;97;115
+T;tool;Hammer;2;boulder;14;98;30
+T;tool;Hammer;4;boulder;22;98;38
+T;tool;Sword;3;monster;21;98;57
+T;tool;Hammer;2;boulder;13;98;71
+T;tool;Saw;3;tree;16;98;77
+T;tool;Sword;5;monster;13;98;99
+T;tool;Sword;5;monster;15;98;100
+T;tool;Sword;4;monster;7;99;26
+T;tool;Sword;5;monster;7;99;33
+T;tool;Hammer;3;boulder;21;99;86
+T;tool;Saw;2;tree;20;100;14
+T;tool;Saw;4;tree;7;100;20
+T;tool;Hammer;5;boulder;17;100;49
+T;tool;Saw;2;tree;19;100;64
+T;tool;Saw;3;tree;22;100;121
+T;tool;Hammer;2;boulder;23;101;54
+T;tool;Hammer;3;boulder;7;101;80
+T;tool;Sword;2;monster;10;102;6
+T;tool;Sword;4;monster;11;102;19
+T;tool;Saw;2;tree;16;102;28
+T;tool;Hammer;4;boulder;8;102;75
+T;tool;Hammer;5;boulder;22;102;98
+T;tool;Saw;5;tree;8;102;122
+T;tool;Sword;2;monster;19;103;27
+T;tool;Sword;5;monster;21;103;43
+T;tool;Sword;5;monster;19;103;68
+T;tool;Sword;4;monster;12;103;69
+T;tool;Saw;4;tree;18;103;72
+T;tool;Saw;2;tree;15;103;87
+T;tool;Sword;2;monster;13;103;91
+T;tool;Hammer;2;boulder;21;104;24
+T;tool;Hammer;3;boulder;12;104;65
+T;tool;Saw;3;tree;8;104;80
+T;tool;Saw;2;tree;7;104;86
+T;tool;Sword;5;monster;15;104;111
+T;tool;Sword;5;monster;16;105;4
+T;tool;Saw;5;tree;15;105;13
+T;tool;Sword;4;monster;12;105;74
+T;tool;Hammer;4;boulder;7;105;115
+T;tool;Sword;5;monster;8;106;11
+T;tool;Hammer;4;boulder;22;106;64
+T;tool;Saw;4;tree;18;106;73
+T;tool;Hammer;4;boulder;15;106;90
+T;tool;Saw;3;tree;14;107;12
+T;tool;Saw;5;tree;18;107;69
+T;tool;Hammer;5;boulder;17;107;107
+T;tool;Hammer;2;boulder;18;108;31
+T;tool;Saw;5;tree;12;108;88
+T;tool;Sword;4;monster;12;109;17
+T;tool;Hammer;3;boulder;21;109;67
+T;tool;Hammer;4;boulder;15;109;123
+T;tool;Hammer;5;boulder;13;110;56
+T;tool;Saw;4;tree;20;110;74
+T;tool;Saw;2;tree;12;110;95
+T;tool;Saw;5;tree;10;111;8
+T;tool;Hammer;2;boulder;18;111;34
+T;tool;Saw;4;tree;23;111;40
+T;tool;Hammer;2;boulder;21;111;84
+T;tool;Sword;5;monster;7;111;100
+T;tool;Sword;5;monster;15;111;101
+T;tool;Sword;3;monster;15;111;105
+T;tool;Saw;3;tree;14;111;126   // WWW end of southern section

@@ -1,0 +1,35 @@
+?;clue;The Royal Diamonds are north 20 grovnicks and west 20 grovnicks;25;53
+?;clue;The Royal Diamonds are north 15 grovnicks and east 2 grovnicks;33;29
+?;clue;The Royal Diamonds are south 70 grovnicks and west 15 grovnicks;13;41
+?;clue;Your grandpa's binoculars are 7 grovnicks North;86;90
+?;clue;I left some cake behind you.;86;87 // mom's clue
+?;clue;Get you dad's boat.  It's north @ the river bend.;78;91 // clue to get boat
+?;clue;A clue bridge lies to the East;35;88
+?;clue;The Royal Diamond is to the South;35;40 // clue on the bridge
+?;clue;Too far South, and you hit the Death Swamps.;37;40
+?;clue;Go South for Magic Candy.;103;63 // southern false clues
+?;clue;Go South for Free Puppies.;101;67
+?;clue;Go South for Magic Beans.;108;57
+?;clue;Go South for Magic Candy.;103;103 
+?;clue;Go South for Free Puppies.;101;107
+?;clue;Go South for Magic Beans.;108;97
+?;clue;Go South for Magic Candy.;107;52
+?;clue;Go South for Free Puppies.;114;93
+?;clue;Go South for Magic Beans.;109;72
+?;clue;Go South for Magic Candy.;110;97
+?;clue;Go South for Free Puppies.;118;52
+?;clue;Go South for Magic Beans.;113;61
+?;clue;Go South for Magic Candy.;119;50
+?;clue;Go South for Free Puppies.;111;82
+?;clue;Go South for Magic Beans.;112;87
+?;clue;The Royal Diamond is 27 West and 38 South;45;53  // These are all fieldland true clues
+?;clue;The Royal Diamond is 45 West and 31 South;52;71 // RD is at 83/26
+?;clue;The Royal Diamond is 1 East and 36 South;47;25
+?;clue;The Royal Diamond is 23 West and 27 South;56;49
+?;clue;The Royal Diamond is 31 West and 26 South;57;57
+?;clue;The Royal Diamond is 9 West and 32 South;51;35
+?;clue;The Royal Diamond is 11 West and 20 South;63;37
+?;clue;The Royal Diamond is 18 West and 14 South;69;44
+?;clue;The Royal Diamond is 10 South;73;26
+?;clue;The Royal Diamond is 15 West and 12 South;71;41
+?;clue;The Royal Diamond is here @ Museum.;85;26

@@ -1,0 +1,8 @@
+inputfiles/food.txt
+inputfiles/clue.txt
+inputfiles/tool.txt
+inputfiles/obstacle.txt
+inputfiles/ship.txt
+inputfiles/binoculars.txt
+inputfiles/treasure.txt
+inputfiles/diamond.txt

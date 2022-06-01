@@ -1,0 +1,994 @@
+F;food;Mom's Cake;20;0;86;89 // start game food
+F;food;The Carrot of Minuscule Hunger Restoration;1;50;12;15
+F;food;Salamander Pie;5;10;13;19
+F;food;Baked Ham;10;50;14;32
+F;food;Wild Turnips;50;110;15;34
+F;food;Candied Beetles;10;10;16;13
+F;food;Swamp Vegetable;5;1;16;35
+F;food;Kweedus Meat;100;500;17;36  // does commenting stuff work here?
+F;food;Wheat;10;15;83;16 // these are foods around the castle
+F;food;Wheat;10;15;82;17 // apparently SPACES are NOT PERMITTED...
+F;food;Wheat;10;15;82;14
+F;food;Wheat;10;15;78;17
+F;food;Wheat;10;15;85;33
+F;food;Wheat;10;10;83;35
+F;food;Wheat;10;10;81;34
+F;food;Wheat;10;10;78;33
+F;food;Wheat;10;10;77;34
+F;food;Cabbage;5;2;105;30 // top row of cabbage
+F;food;Cabbage;5;2;105;31
+F;food;Cabbage;5;2;105;32
+F;food;Cabbage;5;2;105;33
+F;food;Cabbage;5;2;105;34
+F;food;Cabbage;5;2;105;35
+F;food;Cabbage;5;2;105;36
+F;food;Cabbage;5;2;105;37
+F;food;Cabbage;5;2;105;38
+F;food;Cabbage;5;2;105;39
+F;food;Wilted Cabbage;3;2;107;30 // middle row of cabbage
+F;food;Wilted Cabbage;3;2;107;31
+F;food;Wilted Cabbage;3;2;107;32
+F;food;Wilted Cabbage;3;2;107;33
+F;food;Wilted Cabbage;3;2;107;34
+F;food;Wilted Cabbage;3;2;107;35
+F;food;Wilted Cabbage;3;2;107;36
+F;food;Wilted Cabbage;3;2;107;37
+F;food;Wilted Cabbage;3;2;107;38
+F;food;Wilted Cabbage;3;2;107;39
+F;food;Dead Cabbage;1;2;109;30 // bottom row of cabbage
+F;food;Dead Cabbage;1;2;109;31
+F;food;Dead Cabbage;1;2;109;32
+F;food;Dead Cabbage;1;2;109;33
+F;food;Dead Cabbage;1;2;109;34
+F;food;Dead Cabbage;1;2;109;35
+F;food;Dead Cabbage;1;2;109;36
+F;food;Dead Cabbage;1;2;109;37
+F;food;Dead Cabbage;1;2;109;38
+F;food;Dead Cabbage;1;2;109;39
+F;food;Boulder Biscuits;5;11;16;114 // AAA Start of right hand side
+F;food;Swamp Beet;9;15;16;118
+F;food;Lake Leeks;6;15;16;120
+F;food;Swamp Beet;10;17;16;124
+F;food;Lake Leeks;12;17;17;113
+F;food;Lake Leeks;11;13;18;107
+F;food;Boulder Biscuits;7;16;18;125
+F;food;Lake Leeks;7;15;19;113
+F;food;Swamp Beet;13;15;19;117
+F;food;Boulder Biscuits;6;11;19;123
+F;food;Swamp Beet;4;17;20;115
+F;food;Boulder Biscuits;11;11;21;111
+F;food;Lake Leeks;10;15;22;119
+F;food;Lake Leeks;6;12;22;121
+F;food;Lake Leeks;10;14;23;116
+F;food;Lake Leeks;3;17;23;124
+F;food;Lake Leeks;7;14;24;113
+F;food;Boulder Biscuits;4;11;24;125
+F;food;Lake Leeks;7;16;25;113
+F;food;Lake Leeks;13;12;25;115
+F;food;Boulder Biscuits;11;15;26;120
+F;food;Swamp Beet;4;15;27;103
+F;food;Lake Leeks;13;13;27;117
+F;food;Lake Leeks;8;11;27;122
+F;food;Boulder Biscuits;3;11;28;108
+F;food;Boulder Biscuits;10;17;29;99
+F;food;Lake Leeks;3;16;29;110
+F;food;Boulder Biscuits;7;12;29;126
+F;food;Swamp Beet;3;17;30;109
+F;food;Boulder Biscuits;5;14;31;102
+F;food;Swamp Beet;4;16;31;123
+F;food;Lake Leeks;13;11;32;119
+F;food;Boulder Biscuits;5;16;33;108
+F;food;Lake Leeks;13;12;33;122
+F;food;Lake Leeks;3;13;34;122
+F;food;Swamp Beet;9;11;35;124
+F;food;Boulder Biscuits;13;17;36;117
+F;food;Lake Leeks;8;11;37;119
+F;food;Lake Leeks;3;13;38;116
+F;food;Swamp Beet;4;17;39;100
+F;food;Boulder Biscuits;6;17;39;106
+F;food;Lake Leeks;9;15;39;117
+F;food;Swamp Beet;7;15;39;124
+F;food;Boulder Biscuits;7;17;40;123
+F;food;Swamp Beet;6;11;41;100
+F;food;Swamp Beet;5;12;41;101
+F;food;Lake Leeks;4;12;41;118
+F;food;Lake Leeks;12;16;42;117
+F;food;Swamp Beet;11;17;43;112
+F;food;Swamp Beet;4;12;44;109
+F;food;Lake Leeks;9;12;44;111
+F;food;Lake Leeks;7;15;45;119
+F;food;Lake Leeks;7;17;46;125
+F;food;Swamp Beet;12;13;47;97
+F;food;Swamp Beet;9;15;47;107
+F;food;Swamp Beet;5;13;47;120
+F;food;Swamp Beet;3;15;47;124
+F;food;Lake Leeks;11;17;48;98
+F;food;Boulder Biscuits;12;12;48;112
+F;food;Swamp Beet;6;12;49;97
+F;food;Swamp Beet;9;14;49;119
+F;food;Boulder Biscuits;5;17;50;111
+F;food;Boulder Biscuits;12;15;51;117
+F;food;Boulder Biscuits;7;12;52;108
+F;food;Swamp Beet;5;15;52;115
+F;food;Lake Leeks;12;15;53;98
+F;food;Boulder Biscuits;7;14;53;101
+F;food;Swamp Beet;8;13;53;126
+F;food;Boulder Biscuits;4;17;54;105
+F;food;Lake Leeks;10;16;55;101
+F;food;Swamp Beet;8;13;55;105
+F;food;Lake Leeks;4;16;55;110
+F;food;Lake Leeks;12;17;56;110
+F;food;Boulder Biscuits;4;13;58;117
+F;food;Lake Leeks;5;11;59;118
+F;food;Boulder Biscuits;8;17;60;111
+F;food;Lake Leeks;7;16;61;116
+F;food;Swamp Beet;12;16;62;97
+F;food;Boulder Biscuits;13;15;62;115
+F;food;Lake Leeks;13;13;62;123
+F;food;Lake Leeks;12;16;63;125
+F;food;Lake Leeks;10;17;64;107
+F;food;Swamp Beet;10;15;64;120
+F;food;Swamp Beet;5;11;65;97
+F;food;Swamp Beet;10;14;65;119
+F;food;Swamp Beet;6;12;66;108
+F;food;Boulder Biscuits;9;17;66;114
+F;food;Boulder Biscuits;7;13;66;120
+F;food;Lake Leeks;6;11;66;122
+F;food;Swamp Beet;9;11;67;121
+F;food;Swamp Beet;7;12;68;103
+F;food;Boulder Biscuits;9;17;68;106
+F;food;Swamp Beet;8;11;69;103
+F;food;Lake Leeks;7;12;71;104
+F;food;Boulder Biscuits;10;16;72;102
+F;food;Boulder Biscuits;4;11;72;114
+F;food;Lake Leeks;3;12;73;125
+F;food;Boulder Biscuits;5;12;75;105
+F;food;Lake Leeks;8;14;75;107
+F;food;Swamp Beet;13;11;75;126
+F;food;Boulder Biscuits;3;12;76;108
+F;food;Lake Leeks;5;13;76;110
+F;food;Boulder Biscuits;9;11;77;114
+F;food;Swamp Beet;9;15;78;112
+F;food;Lake Leeks;9;11;80;101
+F;food;Boulder Biscuits;4;13;80;119 // ZZZ end of rando right side
+F;food;Meadow Munchies;29;11;10;30
+F;food;Field Carrot;21;12;10;38
+F;food;Meadow Munchies;24;12;10;41
+F;food;Forrest Mushroom;26;13;10;48
+F;food;Field Carrot;24;12;10;68
+F;food;Meadow Munchies;25;10;10;100
+F;food;Field Carrot;29;7;11;15
+F;food;Field Carrot;26;12;11;17
+F;food;Meadow Munchies;20;12;11;43
+F;food;Meadow Munchies;27;11;11;49
+F;food;Meadow Munchies;22;7;11;79
+F;food;Field Carrot;24;8;11;111
+F;food;Meadow Munchies;29;12;12;10
+F;food;Field Carrot;20;9;12;18
+F;food;Forrest Mushroom;19;12;12;28
+F;food;Meadow Munchies;29;7;12;34
+F;food;Field Carrot;25;7;12;48
+F;food;Field Carrot;27;7;12;62
+F;food;Forrest Mushroom;27;12;12;69
+F;food;Forrest Mushroom;19;11;12;85
+F;food;Field Carrot;26;9;12;90
+F;food;Field Carrot;25;9;12;107
+F;food;Forrest Mushroom;20;13;13;23
+F;food;Meadow Munchies;25;8;13;26
+F;food;Field Carrot;28;10;13;61
+F;food;Meadow Munchies;25;12;13;73
+F;food;Forrest Mushroom;19;11;13;74
+F;food;Forrest Mushroom;22;13;13;84
+F;food;Meadow Munchies;20;11;14;24
+F;food;Field Carrot;24;8;14;32
+F;food;Forrest Mushroom;24;10;14;45
+F;food;Field Carrot;22;13;14;68
+F;food;Forrest Mushroom;20;13;14;81
+F;food;Field Carrot;23;7;14;92
+F;food;Field Carrot;29;13;14;103
+F;food;Forrest Mushroom;22;7;15;8
+F;food;Meadow Munchies;27;10;15;17
+F;food;Field Carrot;27;13;15;19
+F;food;Forrest Mushroom;23;13;15;23
+F;food;Forrest Mushroom;28;12;15;45
+F;food;Meadow Munchies;28;7;15;51
+F;food;Field Carrot;25;10;15;68
+F;food;Meadow Munchies;23;13;15;77
+F;food;Meadow Munchies;22;9;15;89
+F;food;Forrest Mushroom;23;10;15;111
+F;food;Field Carrot;25;9;16;31
+F;food;Forrest Mushroom;21;9;16;47
+F;food;Field Carrot;20;13;16;49
+F;food;Forrest Mushroom;22;13;16;53
+F;food;Field Carrot;22;12;16;67
+F;food;Field Carrot;25;8;16;78
+F;food;Meadow Munchies;20;8;16;93
+F;food;Forrest Mushroom;22;11;16;100
+F;food;Meadow Munchies;20;13;17;13
+F;food;Field Carrot;28;11;17;15
+F;food;Field Carrot;20;9;17;29
+F;food;Field Carrot;27;10;17;46
+F;food;Forrest Mushroom;27;7;17;62
+F;food;Field Carrot;25;9;17;76
+F;food;Forrest Mushroom;23;10;17;77
+F;food;Field Carrot;24;13;17;91
+F;food;Forrest Mushroom;29;7;17;98
+F;food;Meadow Munchies;19;9;18;16
+F;food;Meadow Munchies;26;12;18;34
+F;food;Field Carrot;27;12;18;39
+F;food;Forrest Mushroom;26;13;18;61
+F;food;Forrest Mushroom;29;9;18;68
+F;food;Field Carrot;25;8;18;76
+F;food;Forrest Mushroom;24;8;18;98
+F;food;Forrest Mushroom;25;11;19;2
+F;food;Forrest Mushroom;26;8;19;15
+F;food;Meadow Munchies;27;7;19;52
+F;food;Forrest Mushroom;20;8;19;71
+F;food;Field Carrot;19;9;19;95
+F;food;Meadow Munchies;26;11;19;107
+F;food;Forrest Mushroom;23;13;20;23
+F;food;Forrest Mushroom;29;12;20;36
+F;food;Meadow Munchies;23;7;20;57
+F;food;Field Carrot;19;7;20;71
+F;food;Field Carrot;23;12;20;73
+F;food;Field Carrot;24;10;20;84
+F;food;Forrest Mushroom;21;12;20;85
+F;food;Meadow Munchies;19;7;20;91
+F;food;Forrest Mushroom;24;8;20;113
+F;food;Meadow Munchies;25;8;21;10
+F;food;Meadow Munchies;19;10;21;16
+F;food;Forrest Mushroom;24;10;21;17
+F;food;Field Carrot;24;10;21;22
+F;food;Field Carrot;25;8;21;36
+F;food;Field Carrot;29;9;21;47
+F;food;Field Carrot;23;10;21;67
+F;food;Meadow Munchies;20;8;21;76
+F;food;Meadow Munchies;21;11;21;82
+F;food;Field Carrot;29;12;21;99
+F;food;Meadow Munchies;23;10;22;10
+F;food;Forrest Mushroom;27;11;22;23
+F;food;Field Carrot;22;8;22;28
+F;food;Field Carrot;22;11;22;42
+F;food;Meadow Munchies;23;11;22;45
+F;food;Field Carrot;25;8;22;77
+F;food;Forrest Mushroom;26;13;22;90
+F;food;Meadow Munchies;27;7;22;111
+F;food;Forrest Mushroom;19;11;23;11
+F;food;Meadow Munchies;29;10;23;20
+F;food;Field Carrot;23;7;23;22
+F;food;Meadow Munchies;27;11;23;31
+F;food;Forrest Mushroom;24;11;23;44
+F;food;Meadow Munchies;20;11;23;56
+F;food;Forrest Mushroom;23;7;23;75
+F;food;Forrest Mushroom;26;13;23;97
+F;food;Forrest Mushroom;24;9;24;11
+F;food;Field Carrot;27;11;24;34
+F;food;Meadow Munchies;24;8;24;55
+F;food;Meadow Munchies;20;8;24;73
+F;food;Forrest Mushroom;20;12;24;89
+F;food;Field Carrot;19;8;24;94
+F;food;Field Carrot;22;12;24;105
+F;food;Forrest Mushroom;24;7;25;13
+F;food;Forrest Mushroom;23;13;25;20
+F;food;Forrest Mushroom;21;10;25;39
+F;food;Field Carrot;22;7;25;62
+F;food;Forrest Mushroom;21;7;25;63
+F;food;Meadow Munchies;26;12;25;72
+F;food;Forrest Mushroom;20;7;25;76
+F;food;Meadow Munchies;19;8;25;79
+F;food;Forrest Mushroom;26;10;25;101
+F;food;Field Carrot;24;12;26;6
+F;food;Field Carrot;25;7;26;23
+F;food;Meadow Munchies;26;11;26;38
+F;food;Meadow Munchies;29;12;26;59
+F;food;Field Carrot;23;7;26;76
+F;food;Field Carrot;23;11;26;84
+F;food;Field Carrot;27;12;26;92
+F;food;Forrest Mushroom;24;10;26;105
+F;food;Field Carrot;19;8;27;15
+F;food;Meadow Munchies;24;8;27;44
+F;food;Field Carrot;22;12;27;81
+F;food;Meadow Munchies;24;7;27;84
+F;food;Field Carrot;25;8;27;104
+F;food;Field Carrot;22;10;28;15
+F;food;Forrest Mushroom;19;10;28;37
+F;food;Field Carrot;26;12;28;51
+F;food;Meadow Munchies;25;9;28;57
+F;food;Forrest Mushroom;21;7;28;76
+F;food;Field Carrot;29;7;28;81
+F;food;Field Carrot;24;9;28;92
+F;food;Field Carrot;20;8;28;115
+F;food;Meadow Munchies;21;8;29;10
+F;food;Field Carrot;27;13;29;30
+F;food;Forrest Mushroom;25;7;29;79
+F;food;Forrest Mushroom;25;10;29;86
+F;food;Meadow Munchies;20;13;29;104
+F;food;Meadow Munchies;23;12;30;17
+F;food;Forrest Mushroom;28;10;30;21
+F;food;Forrest Mushroom;28;10;30;28
+F;food;Forrest Mushroom;24;9;30;32
+F;food;Meadow Munchies;24;7;30;54
+F;food;Field Carrot;29;8;30;62
+F;food;Forrest Mushroom;23;9;30;63
+F;food;Forrest Mushroom;29;7;30;67
+F;food;Field Carrot;22;9;30;81
+F;food;Forrest Mushroom;24;7;30;91
+F;food;Forrest Mushroom;22;8;30;104
+F;food;Meadow Munchies;19;9;31;4
+F;food;Meadow Munchies;29;7;31;25
+F;food;Meadow Munchies;23;9;31;37
+F;food;Meadow Munchies;27;8;31;49
+F;food;Field Carrot;26;10;31;63
+F;food;Field Carrot;26;7;31;65
+F;food;Meadow Munchies;22;7;31;74
+F;food;Forrest Mushroom;26;8;32;2
+F;food;Meadow Munchies;19;12;32;8
+F;food;Forrest Mushroom;24;12;32;27
+F;food;Meadow Munchies;25;13;32;36
+F;food;Meadow Munchies;27;11;32;39
+F;food;Forrest Mushroom;29;7;32;49
+F;food;Meadow Munchies;20;9;32;70
+F;food;Meadow Munchies;19;10;32;88
+F;food;Meadow Munchies;28;12;32;94
+F;food;Meadow Munchies;29;11;32;112
+F;food;Field Carrot;26;8;33;21
+F;food;Field Carrot;28;11;33;41
+F;food;Forrest Mushroom;20;8;33;60
+F;food;Forrest Mushroom;29;12;33;82
+F;food;Field Carrot;21;9;33;99
+F;food;Meadow Munchies;20;13;34;22
+F;food;Forrest Mushroom;23;7;34;35
+F;food;Forrest Mushroom;28;13;34;48
+F;food;Forrest Mushroom;23;9;34;58
+F;food;Meadow Munchies;23;9;34;67
+F;food;Forrest Mushroom;20;7;34;89
+F;food;Forrest Mushroom;24;11;35;19
+F;food;Meadow Munchies;20;8;35;22
+F;food;Meadow Munchies;27;13;35;28
+F;food;Forrest Mushroom;28;9;35;41
+F;food;Meadow Munchies;20;9;35;59
+F;food;Forrest Mushroom;24;8;35;81
+F;food;Meadow Munchies;21;13;35;99
+F;food;Forrest Mushroom;23;12;36;20
+F;food;Meadow Munchies;19;9;36;41
+F;food;Meadow Munchies;29;12;36;47
+F;food;Field Carrot;25;9;36;49
+F;food;Forrest Mushroom;21;10;36;56
+F;food;Field Carrot;27;9;36;67
+F;food;Field Carrot;19;10;36;84
+F;food;Forrest Mushroom;27;13;36;85
+F;food;Meadow Munchies;24;8;37;7
+F;food;Field Carrot;23;13;37;12
+F;food;Meadow Munchies;24;8;37;57
+F;food;Field Carrot;22;11;37;71
+F;food;Field Carrot;25;13;37;82
+F;food;Field Carrot;24;10;37;99
+F;food;Field Carrot;29;8;38;24
+F;food;Forrest Mushroom;27;9;38;34
+F;food;Meadow Munchies;24;10;38;52
+F;food;Field Carrot;19;10;38;66
+F;food;Meadow Munchies;26;13;38;75
+F;food;Field Carrot;27;12;38;86
+F;food;Meadow Munchies;22;12;38;95
+F;food;Meadow Munchies;23;12;38;98
+F;food;Meadow Munchies;22;9;39;19
+F;food;Field Carrot;28;9;39;33
+F;food;Forrest Mushroom;25;7;39;52
+F;food;Forrest Mushroom;23;13;39;74
+F;food;Forrest Mushroom;29;11;39;78
+F;food;Field Carrot;21;13;39;95
+F;food;Forrest Mushroom;25;8;39;105
+F;food;Forrest Mushroom;21;11;40;11
+F;food;Meadow Munchies;29;7;40;26
+F;food;Field Carrot;29;7;40;46
+F;food;Meadow Munchies;25;10;40;55
+F;food;Meadow Munchies;25;13;40;58
+F;food;Field Carrot;25;8;40;81
+F;food;Forrest Mushroom;24;9;40;94
+F;food;Meadow Munchies;21;9;40;106
+F;food;Field Carrot;27;9;41;21
+F;food;Meadow Munchies;28;10;41;39
+F;food;Meadow Munchies;20;13;41;42
+F;food;Forrest Mushroom;23;8;41;52
+F;food;Meadow Munchies;22;9;41;73
+F;food;Forrest Mushroom;29;8;41;92
+F;food;Field Carrot;29;13;41;112
+F;food;Forrest Mushroom;23;10;42;8
+F;food;Field Carrot;24;10;42;31
+F;food;Forrest Mushroom;25;8;42;47
+F;food;Field Carrot;20;12;42;55
+F;food;Field Carrot;22;10;42;57
+F;food;Forrest Mushroom;24;7;42;73
+F;food;Meadow Munchies;26;8;42;88
+F;food;Forrest Mushroom;27;9;42;89
+F;food;Forrest Mushroom;22;9;42;90
+F;food;Field Carrot;24;12;42;92
+F;food;Field Carrot;21;10;42;115
+F;food;Field Carrot;24;9;43;3
+F;food;Meadow Munchies;21;10;43;21
+F;food;Meadow Munchies;23;8;43;30
+F;food;Forrest Mushroom;25;9;43;52
+F;food;Field Carrot;22;11;43;66
+F;food;Field Carrot;23;11;43;83
+F;food;Forrest Mushroom;19;13;43;99
+F;food;Meadow Munchies;22;10;44;21
+F;food;Field Carrot;20;8;44;45
+F;food;Forrest Mushroom;25;13;44;67
+F;food;Forrest Mushroom;22;12;44;68
+F;food;Forrest Mushroom;25;11;44;80
+F;food;Meadow Munchies;26;12;44;92
+F;food;Field Carrot;27;7;45;9
+F;food;Field Carrot;20;8;45;32
+F;food;Forrest Mushroom;20;11;45;51
+F;food;Field Carrot;23;12;45;68
+F;food;Meadow Munchies;26;13;45;89
+F;food;Forrest Mushroom;25;11;45;93
+F;food;Forrest Mushroom;24;7;45;112
+F;food;Meadow Munchies;19;9;46;19
+F;food;Field Carrot;26;11;46;21
+F;food;Forrest Mushroom;20;12;46;28
+F;food;Meadow Munchies;23;9;46;43
+F;food;Forrest Mushroom;27;9;46;59
+F;food;Field Carrot;24;7;46;79
+F;food;Forrest Mushroom;19;10;46;86
+F;food;Meadow Munchies;23;11;46;101
+F;food;Forrest Mushroom;19;7;47;20
+F;food;Meadow Munchies;19;8;47;26
+F;food;Meadow Munchies;19;8;47;44
+F;food;Forrest Mushroom;23;9;47;45
+F;food;Meadow Munchies;29;7;47;63
+F;food;Forrest Mushroom;24;13;47;70
+F;food;Meadow Munchies;29;8;47;88
+F;food;Forrest Mushroom;22;9;47;107
+F;food;Meadow Munchies;19;10;48;13
+F;food;Field Carrot;19;8;48;27
+F;food;Forrest Mushroom;19;8;48;46
+F;food;Forrest Mushroom;21;10;48;50
+F;food;Meadow Munchies;19;8;48;68
+F;food;Meadow Munchies;19;8;48;77
+F;food;Meadow Munchies;29;11;48;83
+F;food;Field Carrot;24;11;48;85
+F;food;Meadow Munchies;21;8;48;97
+F;food;Forrest Mushroom;22;8;49;17
+F;food;Meadow Munchies;26;8;49;38
+F;food;Meadow Munchies;28;12;49;47
+F;food;Field Carrot;29;11;49;64
+F;food;Forrest Mushroom;28;7;49;71
+F;food;Forrest Mushroom;26;9;49;87
+F;food;Meadow Munchies;23;12;49;90
+F;food;Field Carrot;27;10;49;110
+F;food;Meadow Munchies;24;11;50;22
+F;food;Meadow Munchies;28;11;50;43
+F;food;Field Carrot;25;9;50;66
+F;food;Field Carrot;21;9;50;71
+F;food;Meadow Munchies;24;11;50;86
+F;food;Field Carrot;20;7;50;100
+F;food;Meadow Munchies;29;8;51;22
+F;food;Meadow Munchies;26;13;51;34
+F;food;Forrest Mushroom;24;12;51;56
+F;food;Field Carrot;29;12;51;61
+F;food;Forrest Mushroom;26;10;51;80
+F;food;Field Carrot;23;13;51;103
+F;food;Meadow Munchies;28;13;52;13
+F;food;Forrest Mushroom;20;13;52;17
+F;food;Forrest Mushroom;24;7;52;27
+F;food;Forrest Mushroom;24;7;52;37
+F;food;Forrest Mushroom;24;9;52;47
+F;food;Field Carrot;20;9;52;49
+F;food;Meadow Munchies;27;10;52;58
+F;food;Meadow Munchies;28;7;52;70
+F;food;Field Carrot;26;13;52;84
+F;food;Meadow Munchies;20;9;52;90
+F;food;Field Carrot;27;9;52;95
+F;food;Field Carrot;26;9;52;97
+F;food;Meadow Munchies;23;8;53;7
+F;food;Field Carrot;24;13;53;15
+F;food;Forrest Mushroom;22;7;53;34
+F;food;Field Carrot;20;8;53;39
+F;food;Forrest Mushroom;29;7;53;49
+F;food;Forrest Mushroom;19;10;53;50
+F;food;Field Carrot;29;12;53;52
+F;food;Forrest Mushroom;19;7;53;53
+F;food;Field Carrot;20;12;53;58
+F;food;Forrest Mushroom;25;9;53;65
+F;food;Field Carrot;25;9;53;67
+F;food;Forrest Mushroom;22;9;53;80
+F;food;Meadow Munchies;29;7;53;89
+F;food;Field Carrot;21;11;53;91
+F;food;Field Carrot;26;7;53;96
+F;food;Forrest Mushroom;26;11;54;11
+F;food;Forrest Mushroom;20;11;54;33
+F;food;Meadow Munchies;25;13;54;39
+F;food;Forrest Mushroom;25;8;54;46
+F;food;Field Carrot;24;11;54;54
+F;food;Meadow Munchies;22;8;54;72
+F;food;Forrest Mushroom;24;8;54;82
+F;food;Meadow Munchies;27;13;54;94
+F;food;Field Carrot;19;11;54;108
+F;food;Forrest Mushroom;24;9;55;14
+F;food;Forrest Mushroom;19;11;55;24
+F;food;Forrest Mushroom;19;7;55;46
+F;food;Meadow Munchies;23;13;55;58
+F;food;Forrest Mushroom;24;8;55;75
+F;food;Forrest Mushroom;24;11;55;82
+F;food;Field Carrot;21;13;55;84
+F;food;Forrest Mushroom;21;10;55;91
+F;food;Forrest Mushroom;23;11;55;104
+F;food;Forrest Mushroom;20;8;56;2
+F;food;Field Carrot;19;12;56;22
+F;food;Forrest Mushroom;20;8;56;23
+F;food;Meadow Munchies;21;11;56;32
+F;food;Field Carrot;22;7;56;52
+F;food;Meadow Munchies;23;9;56;61
+F;food;Forrest Mushroom;20;8;56;81
+F;food;Meadow Munchies;25;9;56;93
+F;food;Field Carrot;27;13;56;116
+F;food;Meadow Munchies;28;10;57;13
+F;food;Forrest Mushroom;24;7;57;26
+F;food;Meadow Munchies;22;9;57;38
+F;food;Forrest Mushroom;20;10;57;51
+F;food;Meadow Munchies;23;13;57;54
+F;food;Meadow Munchies;28;7;57;72
+F;food;Meadow Munchies;26;12;57;84
+F;food;Meadow Munchies;29;13;57;105
+F;food;Forrest Mushroom;21;7;58;8
+F;food;Meadow Munchies;21;8;58;29
+F;food;Meadow Munchies;27;9;58;44
+F;food;Forrest Mushroom;23;10;58;48
+F;food;Meadow Munchies;21;9;58;80
+F;food;Meadow Munchies;21;13;58;104
+F;food;Field Carrot;20;9;59;12
+F;food;Meadow Munchies;26;7;59;15
+F;food;Meadow Munchies;29;10;59;36
+F;food;Field Carrot;21;12;59;44
+F;food;Meadow Munchies;23;12;59;62
+F;food;Field Carrot;27;9;59;73
+F;food;Field Carrot;26;9;59;84
+F;food;Meadow Munchies;27;10;59;93
+F;food;Meadow Munchies;28;7;59;105
+F;food;Field Carrot;24;13;60;12
+F;food;Forrest Mushroom;20;12;60;19
+F;food;Meadow Munchies;20;8;60;31
+F;food;Meadow Munchies;24;12;60;34
+F;food;Forrest Mushroom;20;9;60;47
+F;food;Forrest Mushroom;27;13;60;60
+F;food;Meadow Munchies;19;9;60;75
+F;food;Meadow Munchies;26;8;60;90
+F;food;Meadow Munchies;20;12;60;102
+F;food;Meadow Munchies;21;9;61;10
+F;food;Field Carrot;21;11;61;27
+F;food;Forrest Mushroom;20;12;61;34
+F;food;Field Carrot;23;11;61;45
+F;food;Meadow Munchies;27;8;61;63
+F;food;Meadow Munchies;24;8;61;75
+F;food;Meadow Munchies;22;7;61;96
+F;food;Meadow Munchies;25;13;62;7
+F;food;Field Carrot;29;8;62;30
+F;food;Forrest Mushroom;27;8;62;31
+F;food;Forrest Mushroom;21;11;62;44
+F;food;Field Carrot;23;12;62;55
+F;food;Field Carrot;25;10;62;63
+F;food;Forrest Mushroom;23;11;62;67
+F;food;Field Carrot;28;9;62;72
+F;food;Meadow Munchies;26;7;62;93
+F;food;Meadow Munchies;27;13;62;111
+F;food;Forrest Mushroom;25;9;63;2
+F;food;Field Carrot;21;8;63;26
+F;food;Meadow Munchies;21;7;63;41
+F;food;Meadow Munchies;26;8;63;53
+F;food;Field Carrot;23;10;63;58
+F;food;Field Carrot;19;11;63;69
+F;food;Forrest Mushroom;24;7;63;76
+F;food;Meadow Munchies;22;9;63;94
+F;food;Forrest Mushroom;27;8;63;98
+F;food;Field Carrot;20;8;64;24
+F;food;Field Carrot;24;10;64;38
+F;food;Meadow Munchies;24;7;64;59
+F;food;Field Carrot;21;9;64;79
+F;food;Meadow Munchies;29;13;64;97
+F;food;Field Carrot;23;8;65;3
+F;food;Meadow Munchies;27;10;65;12
+F;food;Forrest Mushroom;23;9;65;25
+F;food;Field Carrot;28;8;65;33
+F;food;Forrest Mushroom;25;11;65;34
+F;food;Forrest Mushroom;24;13;65;44
+F;food;Forrest Mushroom;22;9;65;57
+F;food;Field Carrot;29;8;65;65
+F;food;Forrest Mushroom;21;11;65;78
+F;food;Field Carrot;19;12;65;95
+F;food;Field Carrot;29;10;65;103
+F;food;Forrest Mushroom;21;8;66;11
+F;food;Meadow Munchies;21;8;66;14
+F;food;Meadow Munchies;28;10;66;23
+F;food;Forrest Mushroom;26;11;66;30
+F;food;Field Carrot;21;9;66;32
+F;food;Forrest Mushroom;20;8;66;45
+F;food;Field Carrot;19;10;66;47
+F;food;Field Carrot;20;7;66;52
+F;food;Field Carrot;24;8;66;60
+F;food;Field Carrot;28;11;66;65
+F;food;Field Carrot;21;11;66;82
+F;food;Field Carrot;23;12;66;84
+F;food;Meadow Munchies;19;8;66;96
+F;food;Meadow Munchies;21;12;67;13
+F;food;Forrest Mushroom;29;11;67;35
+F;food;Meadow Munchies;26;8;67;53
+F;food;Field Carrot;20;12;67;55
+F;food;Field Carrot;27;8;67;60
+F;food;Forrest Mushroom;29;9;67;67
+F;food;Meadow Munchies;21;7;67;73
+F;food;Field Carrot;27;9;67;78
+F;food;Field Carrot;22;11;67;95
+F;food;Forrest Mushroom;21;10;67;108
+F;food;Meadow Munchies;20;11;68;13
+F;food;Field Carrot;25;8;68;33
+F;food;Field Carrot;26;13;68;50
+F;food;Field Carrot;27;11;68;84
+F;food;Meadow Munchies;23;11;68;102
+F;food;Forrest Mushroom;26;13;69;17
+F;food;Forrest Mushroom;26;9;69;39
+F;food;Field Carrot;22;11;69;53
+F;food;Field Carrot;25;12;69;76
+F;food;Meadow Munchies;23;13;70;16
+F;food;Field Carrot;19;9;70;21
+F;food;Meadow Munchies;25;8;70;30
+F;food;Meadow Munchies;23;9;70;45
+F;food;Field Carrot;27;11;70;62
+F;food;Forrest Mushroom;22;8;70;66
+F;food;Meadow Munchies;22;8;70;69
+F;food;Forrest Mushroom;29;12;70;91
+F;food;Field Carrot;22;7;70;93
+F;food;Forrest Mushroom;22;10;70;112
+F;food;Field Carrot;28;7;71;9
+F;food;Meadow Munchies;25;12;71;30
+F;food;Meadow Munchies;23;11;71;48
+F;food;Meadow Munchies;29;7;71;69
+F;food;Forrest Mushroom;22;9;71;82
+F;food;Forrest Mushroom;24;11;71;98
+F;food;Forrest Mushroom;21;7;72;14
+F;food;Meadow Munchies;25;9;72;26
+F;food;Forrest Mushroom;20;13;72;30
+F;food;Meadow Munchies;24;9;72;51
+F;food;Meadow Munchies;21;11;72;66
+F;food;Meadow Munchies;19;9;72;84
+F;food;Field Carrot;26;13;72;107
+F;food;Forrest Mushroom;29;11;73;2
+F;food;Field Carrot;23;11;73;22
+F;food;Forrest Mushroom;23;9;73;38
+F;food;Field Carrot;22;7;73;62
+F;food;Field Carrot;20;7;73;67
+F;food;Field Carrot;25;12;73;78
+F;food;Forrest Mushroom;26;8;73;97
+F;food;Field Carrot;25;7;74;3
+F;food;Forrest Mushroom;24;7;74;19
+F;food;Meadow Munchies;22;11;74;37
+F;food;Meadow Munchies;21;10;74;55
+F;food;Meadow Munchies;21;11;74;67
+F;food;Forrest Mushroom;25;13;74;89
+F;food;Field Carrot;21;8;74;109
+F;food;Field Carrot;22;7;75;9
+F;food;Meadow Munchies;28;10;75;12
+F;food;Forrest Mushroom;20;11;75;22
+F;food;Meadow Munchies;22;9;75;43
+F;food;Meadow Munchies;21;9;75;49
+F;food;Meadow Munchies;20;11;75;70
+F;food;Field Carrot;22;13;75;78
+F;food;Forrest Mushroom;26;8;75;97
+F;food;Meadow Munchies;19;10;76;19
+F;food;Meadow Munchies;20;12;76;40
+F;food;Forrest Mushroom;24;12;76;41
+F;food;Forrest Mushroom;22;12;76;42
+F;food;Meadow Munchies;22;12;76;63
+F;food;Field Carrot;22;10;76;83
+F;food;Field Carrot;20;11;76;97
+F;food;Forrest Mushroom;29;12;77;17
+F;food;Field Carrot;22;11;77;19
+F;food;Field Carrot;26;11;77;66
+F;food;Meadow Munchies;21;7;77;78
+F;food;Meadow Munchies;25;9;77;99
+F;food;Forrest Mushroom;23;10;78;5
+F;food;Field Carrot;22;8;78;28
+F;food;Meadow Munchies;24;9;78;34
+F;food;Field Carrot;26;8;78;42
+F;food;Field Carrot;28;11;78;47
+F;food;Field Carrot;21;9;78;61
+F;food;Forrest Mushroom;26;12;78;74
+F;food;Field Carrot;28;11;78;79
+F;food;Meadow Munchies;27;12;78;100
+F;food;Field Carrot;24;9;79;6
+F;food;Forrest Mushroom;22;10;79;16
+F;food;Field Carrot;26;9;79;56
+F;food;Meadow Munchies;25;12;79;74
+F;food;Forrest Mushroom;22;10;79;78
+F;food;Field Carrot;22;9;79;83
+F;food;Meadow Munchies;20;7;79;95
+F;food;Meadow Munchies;25;9;79;104
+F;food;Forrest Mushroom;27;13;80;8
+F;food;Forrest Mushroom;29;9;80;18
+F;food;Forrest Mushroom;23;9;80;25
+F;food;Field Carrot;21;8;80;42
+F;food;Forrest Mushroom;19;9;80;58
+F;food;Forrest Mushroom;29;9;80;80
+F;food;Meadow Munchies;29;10;80;89
+F;food;Field Carrot;23;12;80;109 // YYY end of greater field
+F;food;Southern Blue Carrot;7;3;81;30 // DDD start of souther to death
+F;food;Grassland Gravy;10;4;81;45
+F;food;Southern Blue Carrot;11;5;81;56
+F;food;Southern Silver Mushroom;8;7;81;75
+F;food;Southern Silver Mushroom;8;4;81;107
+F;food;Southern Silver Mushroom;9;7;81;111
+F;food;Southern Silver Mushroom;11;3;82;10
+F;food;Southern Silver Mushroom;8;7;82;20
+F;food;Southern Silver Mushroom;11;6;82;45
+F;food;Grassland Gravy;9;3;82;63
+F;food;Southern Silver Mushroom;7;3;82;88
+F;food;Southern Blue Carrot;7;4;82;123
+F;food;Grassland Gravy;11;7;83;15
+F;food;Southern Silver Mushroom;10;6;83;28
+F;food;Grassland Gravy;11;3;83;37
+F;food;Southern Blue Carrot;10;7;83;45
+F;food;Grassland Gravy;10;3;83;72
+F;food;Southern Silver Mushroom;11;6;83;89
+F;food;Southern Blue Carrot;7;5;83;94
+F;food;Southern Silver Mushroom;7;5;83;122
+F;food;Southern Silver Mushroom;8;6;84;9
+F;food;Southern Silver Mushroom;8;7;84;46
+F;food;Southern Blue Carrot;7;7;84;81
+F;food;Grassland Gravy;8;7;84;111
+F;food;Grassland Gravy;9;5;85;3
+F;food;Grassland Gravy;10;5;85;39
+F;food;Southern Silver Mushroom;10;3;85;49
+F;food;Southern Blue Carrot;10;7;85;57
+F;food;Southern Blue Carrot;9;7;85;115
+F;food;Southern Silver Mushroom;9;4;86;20
+F;food;Southern Blue Carrot;7;7;86;22
+F;food;Southern Blue Carrot;10;3;86;51
+F;food;Southern Silver Mushroom;7;4;86;79
+F;food;Grassland Gravy;8;6;86;82
+F;food;Grassland Gravy;11;7;86;106
+F;food;Grassland Gravy;10;7;87;7
+F;food;Southern Silver Mushroom;10;5;87;20
+F;food;Southern Silver Mushroom;11;3;87;33
+F;food;Southern Silver Mushroom;10;5;87;49
+F;food;Southern Silver Mushroom;7;7;87;80
+F;food;Southern Blue Carrot;7;4;87;97
+F;food;Grassland Gravy;10;3;88;7
+F;food;Southern Silver Mushroom;8;3;88;41
+F;food;Grassland Gravy;11;4;88;68
+F;food;Grassland Gravy;7;4;88;98
+F;food;Southern Blue Carrot;7;4;88;100
+F;food;Southern Blue Carrot;7;7;88;114
+F;food;Grassland Gravy;8;3;89;15
+F;food;Southern Blue Carrot;7;4;89;44
+F;food;Southern Silver Mushroom;7;4;89;48
+F;food;Southern Blue Carrot;8;5;89;71
+F;food;Southern Blue Carrot;8;5;89;97
+F;food;Southern Blue Carrot;9;3;89;123
+F;food;Grassland Gravy;7;3;90;27
+F;food;Southern Silver Mushroom;11;3;90;61
+F;food;Southern Blue Carrot;11;5;90;96
+F;food;Grassland Gravy;9;7;90;102
+F;food;Grassland Gravy;8;3;90;108
+F;food;Grassland Gravy;10;5;90;120
+F;food;Southern Blue Carrot;11;5;91;2
+F;food;Southern Blue Carrot;8;6;91;4
+F;food;Southern Blue Carrot;8;5;91;15
+F;food;Southern Blue Carrot;7;4;91;41
+F;food;Southern Blue Carrot;7;4;91;55
+F;food;Southern Silver Mushroom;9;6;91;86
+F;food;Southern Blue Carrot;9;5;91;97
+F;food;Southern Blue Carrot;10;4;92;3
+F;food;Southern Silver Mushroom;8;5;92;13
+F;food;Southern Silver Mushroom;8;5;92;23
+F;food;Grassland Gravy;9;6;92;32
+F;food;Southern Blue Carrot;8;4;92;34
+F;food;Grassland Gravy;10;6;92;52
+F;food;Southern Blue Carrot;9;6;92;72
+F;food;Southern Silver Mushroom;10;3;92;91
+F;food;Southern Blue Carrot;9;6;92;96
+F;food;Grassland Gravy;7;5;92;117
+F;food;Southern Silver Mushroom;8;4;93;22
+F;food;Southern Silver Mushroom;9;7;93;35
+F;food;Grassland Gravy;8;5;93;56
+F;food;Southern Blue Carrot;7;4;93;67
+F;food;Grassland Gravy;10;5;93;73
+F;food;Southern Blue Carrot;8;3;93;96
+F;food;Southern Silver Mushroom;7;7;93;115
+F;food;Southern Silver Mushroom;8;3;94;2
+F;food;Southern Silver Mushroom;8;5;94;36
+F;food;Southern Blue Carrot;11;7;94;56
+F;food;Grassland Gravy;9;3;94;83
+F;food;Southern Silver Mushroom;10;3;94;120
+F;food;Southern Silver Mushroom;10;6;94;124
+F;food;Grassland Gravy;8;3;95;4
+F;food;Southern Blue Carrot;7;6;95;39
+F;food;Grassland Gravy;7;3;95;42
+F;food;Southern Blue Carrot;10;5;95;68
+F;food;Southern Silver Mushroom;10;3;95;84
+F;food;Grassland Gravy;8;7;95;87
+F;food;Southern Blue Carrot;9;6;95;104
+F;food;Southern Blue Carrot;10;5;96;10
+F;food;Southern Silver Mushroom;9;5;96;29
+F;food;Southern Blue Carrot;9;4;96;55
+F;food;Grassland Gravy;11;7;96;88
+F;food;Southern Blue Carrot;11;7;96;120
+F;food;Southern Silver Mushroom;10;4;97;13
+F;food;Southern Silver Mushroom;7;4;97;23
+F;food;Southern Silver Mushroom;11;7;97;48
+F;food;Southern Silver Mushroom;9;6;97;64
+F;food;Southern Silver Mushroom;7;3;97;74
+F;food;Southern Blue Carrot;9;6;97;79
+F;food;Grassland Gravy;10;5;97;109
+F;food;Southern Silver Mushroom;7;7;98;8
+F;food;Southern Blue Carrot;7;3;98;10
+F;food;Southern Blue Carrot;9;4;98;18
+F;food;Southern Blue Carrot;10;4;98;53
+F;food;Southern Silver Mushroom;8;5;98;90
+F;food;Southern Silver Mushroom;10;6;98;94
+F;food;Southern Silver Mushroom;8;3;98;107
+F;food;Southern Silver Mushroom;11;5;98;117
+F;food;Southern Silver Mushroom;8;4;98;124
+F;food;Grassland Gravy;10;3;99;13
+F;food;Grassland Gravy;11;3;99;46
+F;food;Southern Blue Carrot;10;5;99;66
+F;food;Grassland Gravy;8;7;99;84
+F;food;Grassland Gravy;8;3;99;108
+F;food;Southern Silver Mushroom;10;6;99;112
+F;food;Grassland Gravy;10;5;99;124
+F;food;Grassland Gravy;9;3;100;25
+F;food;Southern Blue Carrot;7;7;100;54
+F;food;Grassland Gravy;8;6;100;75
+F;food;Southern Silver Mushroom;8;6;100;85
+F;food;Southern Silver Mushroom;9;5;100;116
+F;food;Southern Blue Carrot;9;5;101;10
+F;food;Southern Blue Carrot;8;6;101;12
+F;food;Grassland Gravy;11;5;101;36
+F;food;Southern Blue Carrot;7;3;101;50
+F;food;Southern Blue Carrot;7;6;101;61
+F;food;Southern Silver Mushroom;10;5;101;71
+F;food;Southern Silver Mushroom;8;7;101;105
+F;food;Southern Silver Mushroom;11;4;101;109
+F;food;Southern Silver Mushroom;9;5;102;17
+F;food;Grassland Gravy;10;4;102;38
+F;food;Southern Silver Mushroom;10;6;102;42
+F;food;Grassland Gravy;8;3;102;78
+F;food;Southern Blue Carrot;11;4;102;113
+F;food;Southern Blue Carrot;11;6;103;1
+F;food;Grassland Gravy;10;6;103;25
+F;food;Southern Silver Mushroom;7;4;103;56
+F;food;Southern Blue Carrot;7;5;103;67
+F;food;Grassland Gravy;11;5;103;91
+F;food;Southern Silver Mushroom;10;4;103;95
+F;food;Southern Blue Carrot;7;7;103;97
+F;food;Southern Blue Carrot;8;7;103;126
+F;food;Southern Blue Carrot;11;6;104;30
+F;food;Grassland Gravy;9;5;104;66
+F;food;Grassland Gravy;10;7;104;102
+F;food;Southern Blue Carrot;7;7;105;8
+F;food;Southern Silver Mushroom;10;4;105;21
+F;food;Southern Blue Carrot;10;4;105;56
+F;food;Southern Silver Mushroom;9;3;105;57
+F;food;Southern Silver Mushroom;7;6;105;76
+F;food;Southern Silver Mushroom;9;6;105;101
+F;food;Southern Blue Carrot;10;7;105;106
+F;food;Southern Blue Carrot;10;3;105;123
+F;food;Grassland Gravy;9;6;106;21
+F;food;Grassland Gravy;7;4;106;48
+F;food;Grassland Gravy;9;6;106;51
+F;food;Southern Blue Carrot;8;4;106;80
+F;food;Southern Blue Carrot;9;4;106;106
+F;food;Southern Silver Mushroom;7;4;106;110
+F;food;Southern Blue Carrot;7;4;106;115
+F;food;Southern Silver Mushroom;8;3;107;5
+F;food;Southern Silver Mushroom;8;7;107;27
+F;food;Southern Blue Carrot;7;5;107;29
+F;food;Grassland Gravy;11;4;107;59
+F;food;Southern Silver Mushroom;7;6;107;87
+F;food;Southern Silver Mushroom;10;4;107;112
+F;food;Southern Blue Carrot;11;5;108;15
+F;food;Southern Silver Mushroom;9;4;108;28
+F;food;Southern Silver Mushroom;11;5;108;50
+F;food;Southern Blue Carrot;8;7;108;79
+F;food;Grassland Gravy;8;6;108;109
+F;food;Grassland Gravy;11;7;108;121
+F;food;Southern Blue Carrot;9;4;109;12
+F;food;Grassland Gravy;7;3;109;42
+F;food;Southern Silver Mushroom;10;5;109;76
+F;food;Southern Silver Mushroom;9;3;109;83
+F;food;Southern Silver Mushroom;8;5;109;99
+F;food;Grassland Gravy;9;7;109;114
+F;food;Southern Silver Mushroom;9;3;109;115
+F;food;Grassland Gravy;11;4;110;1
+F;food;Southern Blue Carrot;10;3;110;30
+F;food;Southern Silver Mushroom;9;7;110;46
+F;food;Grassland Gravy;9;4;110;76
+F;food;Southern Silver Mushroom;11;6;110;89
+F;food;Southern Silver Mushroom;11;4;110;114
+F;food;Grassland Gravy;8;6;111;6
+F;food;Southern Blue Carrot;8;3;111;17
+F;food;Grassland Gravy;7;7;111;26
+F;food;Southern Silver Mushroom;10;6;111;63
+F;food;Southern Blue Carrot;9;6;111;89
+F;food;Southern Blue Carrot;10;6;111;97
+F;food;Southern Silver Mushroom;9;3;111;119
+F;food;Grassland Gravy;9;5;112;23
+F;food;Southern Blue Carrot;10;6;112;55
+F;food;Grassland Gravy;8;5;112;70
+F;food;Southern Blue Carrot;11;4;112;81
+F;food;Southern Blue Carrot;9;5;112;83
+F;food;Grassland Gravy;9;6;112;98
+F;food;Southern Silver Mushroom;10;6;112;123
+F;food;Southern Blue Carrot;7;5;113;8
+F;food;Southern Silver Mushroom;11;4;113;30
+F;food;Southern Blue Carrot;9;3;113;44
+F;food;Southern Silver Mushroom;9;6;113;57
+F;food;Southern Blue Carrot;11;6;113;77
+F;food;Southern Blue Carrot;11;5;113;112
+F;food;Grassland Gravy;7;4;114;10
+F;food;Grassland Gravy;9;6;114;34
+F;food;Southern Silver Mushroom;8;3;114;62
+F;food;Grassland Gravy;9;6;114;74
+F;food;Southern Blue Carrot;10;4;114;103
+F;food;Southern Silver Mushroom;9;3;115;8
+F;food;Southern Silver Mushroom;11;5;115;33
+F;food;Southern Blue Carrot;10;5;115;59
+F;food;Grassland Gravy;8;4;115;77
+F;food;Southern Blue Carrot;11;3;115;112
+F;food;Grassland Gravy;9;3;115;118
+F;food;Southern Silver Mushroom;11;3;116;29
+F;food;Grassland Gravy;10;6;116;56
+F;food;Grassland Gravy;9;5;116;77
+F;food;Grassland Gravy;11;3;116;104
+F;food;Southern Blue Carrot;7;7;117;10
+F;food;Southern Silver Mushroom;10;3;117;32
+F;food;Grassland Gravy;10;3;117;35
+F;food;Southern Blue Carrot;8;4;117;55
+F;food;Southern Blue Carrot;11;5;117;63
+F;food;Grassland Gravy;7;3;117;81
+F;food;Southern Blue Carrot;8;7;117;83
+F;food;Southern Silver Mushroom;10;5;117;117
+F;food;Southern Blue Carrot;8;4;117;119
+F;food;Grassland Gravy;7;5;118;29
+F;food;Southern Blue Carrot;7;5;118;40
+F;food;Grassland Gravy;9;3;118;49
+F;food;Southern Silver Mushroom;9;6;118;68
+F;food;Grassland Gravy;10;4;118;101
+F;food;Southern Silver Mushroom;10;4;118;117
+F;food;Southern Silver Mushroom;7;6;119;10
+F;food;Grassland Gravy;9;4;119;37
+F;food;Southern Blue Carrot;11;4;119;57
+F;food;Southern Silver Mushroom;7;3;119;67
+F;food;Southern Blue Carrot;7;3;119;75
+F;food;Southern Blue Carrot;9;6;119;95
+F;food;Southern Blue Carrot;9;3;119;97
+F;food;Southern Blue Carrot;7;7;120;3
+F;food;Southern Silver Mushroom;10;6;120;10
+F;food;Southern Silver Mushroom;11;4;120;38
+F;food;Grassland Gravy;10;6;120;62
+F;food;Grassland Gravy;11;4;120;86
+F;food;Southern Silver Mushroom;11;3;120;120
+F;food;Southern Blue Carrot;7;5;121;17
+F;food;Southern Silver Mushroom;9;5;121;42
+F;food;Southern Silver Mushroom;11;5;121;49
+F;food;Southern Silver Mushroom;8;7;121;65
+F;food;Grassland Gravy;10;4;121;101
+F;food;Southern Silver Mushroom;7;4;122;6
+F;food;Southern Silver Mushroom;11;6;122;43
+F;food;Grassland Gravy;8;6;122;67
+F;food;Southern Silver Mushroom;8;6;122;77
+F;food;Southern Silver Mushroom;7;7;122;102
+F;food;Southern Silver Mushroom;10;3;122;115
+F;food;Southern Blue Carrot;10;7;123;3
+F;food;Southern Blue Carrot;7;7;123;20
+F;food;Southern Silver Mushroom;8;5;123;54
+F;food;Southern Blue Carrot;11;5;123;68
+F;food;Southern Blue Carrot;8;7;123;94
+F;food;Grassland Gravy;11;4;123;109
+F;food;Southern Silver Mushroom;11;5;123;119
+F;food;Southern Blue Carrot;7;4;124;22
+F;food;Grassland Gravy;11;6;124;25
+F;food;Southern Silver Mushroom;11;6;124;35
+F;food;Southern Blue Carrot;10;4;124;49
+F;food;Southern Silver Mushroom;11;4;124;71
+F;food;Southern Blue Carrot;7;7;124;103
+F;food;Southern Blue Carrot;7;6;124;126 // WWW end of southern
